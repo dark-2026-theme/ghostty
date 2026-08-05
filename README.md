@@ -55,3 +55,7 @@ Background `#121314`, foreground `#bbbebf`, cursor `#bbbebf` on `#121314`, selec
 
 Palette from Microsoft's VS Code **Dark Modern 2026** theme, by way of
 [D0nw0r/dark2026.nvim](https://github.com/D0nw0r/dark2026.nvim) (MIT).
+
+## License
+
+[MIT](LICENSE)
