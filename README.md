@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="dark-2026" width="96" />
+</p>
+
 # dark-2026 — Ghostty
 
 A dark theme for [Ghostty](https://ghostty.org), ported from VS Code's **Dark Modern 2026**:
