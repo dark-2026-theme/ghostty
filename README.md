@@ -15,8 +15,9 @@ canvas.
 | Neovim | [dark-2026-theme/nvim](https://github.com/dark-2026-theme/nvim) | colorscheme plugin |
 | Ghostty | [dark-2026-theme/ghostty](https://github.com/dark-2026-theme/ghostty) | **this repo** |
 | kitty | [dark-2026-theme/kitty](https://github.com/dark-2026-theme/kitty) | terminal theme |
+| Xcode | [dark-2026-theme/xcode](https://github.com/dark-2026-theme/xcode) | editor theme |
 
-All three share one palette, so `:terminal` inside Neovim renders identically to the host
+Every port shares one palette, so `:terminal` inside Neovim renders identically to the host
 terminal.
 
 ## Install
